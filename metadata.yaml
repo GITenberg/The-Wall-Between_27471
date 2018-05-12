@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2534
     wikipedia: http://en.wikipedia.org/wiki/Sara_Ware_Bassett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27471#The-Wall-Between
 gutenberg_issued: '2008-12-09'
 gutenberg_type: Text
 identifiers:
