@@ -1,0 +1,38 @@
+_repo: The-Wall-Between_27471
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Price, Norman
+    alias: Price, Norman Mills
+    birthdate: 1877
+    deathdate: 1951
+    gutenberg_agent_id: '40987'
+    url: http://www.gutenberg.org/2009/agents/40987
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bassett, Sara Ware
+    birthdate: 1872
+    deathdate: 1968
+    gutenberg_agent_id: '2534'
+    url: http://www.gutenberg.org/2009/agents/2534
+    wikipedia: http://en.wikipedia.org/wiki/Sara_Ware_Bassett
+description: ''
+gutenberg_issued: '2008-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27471'
+  lccn: '20015702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Neighbors -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New Hampshire -- Fiction'
+- !lcsh 'Love stories'
+title: The Wall Between
+url: http://www.gutenberg.org/ebooks/27471
